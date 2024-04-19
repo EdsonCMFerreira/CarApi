@@ -10,4 +10,4 @@ Documentação MinimalApis: https://learn.microsoft.com/en-us/aspnet/core/fundam
 
 Para consumir os dados desta API foi criado o projeto ClientApiChampionsDevs que tem interface prompt e que consome os endpoints da API.
 
-O Projeto que consome a API ClientApiChampionsDevs está em https://github.com/EdsonCMFerreira/ClientApiChampionsDevs
+O Projeto ClientApiChampionsDevs está em https://github.com/EdsonCMFerreira/ClientApiChampionsDevs
